@@ -5,9 +5,6 @@
 #include <algorithm>
 using namespace std;
 
-// NET ID : AXE210038
-// NAME: AHMED ELGHAZI
-
 struct node
 {
     // node needs to hold the roman numerals, arabic digits (as an integer), and point to the next node if any
